@@ -31,7 +31,7 @@
     </style>
 </head>
 <body>
-    <h1>Image Preview on File Uploads </h1>
+    <h1>Image Preview on file uploads </h1>
     <input type="file" name="inpFile" id="inpFile">
     <div class="image-preview" id="imagePreview">
         <img src="" alt="Image Preview" class="image-preview__image">
