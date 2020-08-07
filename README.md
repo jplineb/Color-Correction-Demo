@@ -1,9 +1,3 @@
----
-layout: demo
-title: Color Correction
-category: demo
-permalink: /README.html
----
 
 
 <!DOCTYPE html>
